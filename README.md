@@ -10,7 +10,7 @@
 **PeerWave** is a lightweight, plug-and-play voice communication API for web apps, built using [PeerJS](https://peerjs.com/). This library allows you to integrate real-time voice chat between users with just a few function calls.
 
 Hosted Library:  
-🔗 https://stump-deadpan-wall.glitch.me/voice.js
+🔗 https://glitch.com/edit/#!/stump-deadpan-wall
 
 
 ---
