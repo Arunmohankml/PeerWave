@@ -7,12 +7,21 @@
 ![Glitch](https://img.shields.io/badge/Glitch-5C2D91?style=for-the-badge&logo=glitch&logoColor=white)
 ![Acode](https://img.shields.io/badge/Acode-Mobile%20IDE-2C2C2C?style=for-the-badge&logo=android&logoColor=green)
 
-**PeerWave** is a lightweight, plug-and-play voice communication API for web apps, built using [PeerJS](https://peerjs.com/). This library allows you to integrate real-time voice chat between users with just a few function calls.
+**PeerWave** is a lightweight, plug-and-play voice communication API for web apps, built using [PeerJS](https://peerjs.com/). This library allows you to integrate real-time voice chat between users with just a few function calls. This can be mainly used for proximity making proximity/normal voicechat in games with inbuilt browser or normal Websites.
+
+- currently it's using peerjs default cloud server for signaling, it may cause minor bugs, feel free to contribute and upgrade these features.
 
 Hosted Library:  
 🔗 https://glitch.com/edit/#!/stump-deadpan-wall
 
-
+### Features
+```
+Connect to voice
+Call player
+Control call volume
+Control self volume
+Mute/unmute
+```
 ---
 
 ## 🔧 How to Use
