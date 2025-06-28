@@ -16,11 +16,11 @@ Hosted Library:
 
 ### Features
 
--Connect to voice
--Call player
--Control call volume
--Control self volume
--Mute/unmute
+- Connect to voice
+- Call player
+- Control call volume
+- Control self volume
+- Mute/unmute
 
 ---
 
