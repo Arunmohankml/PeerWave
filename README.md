@@ -117,7 +117,7 @@ You can find a working client implementation with UI at:
 
 Credits
 
-This library is created and maintained by (Arunmohankml)[].
+This library is created and maintained by [Arunmohankml](https://github.com/Arunmohankml/j).
 Please give proper credit if you use or modify this library in your projects.
 
 
