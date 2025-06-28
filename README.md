@@ -119,7 +119,7 @@ Each item in the array has:
 Example HTML Template
 
 You can find a working client implementation with UI at:
-🔗 https://roan-ballistic-ash.glitch.me/
+🔗 [PREVIEW](https://arunmohankml.github.io/PeerWave/)
 
 
 ---
