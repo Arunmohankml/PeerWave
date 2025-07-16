@@ -12,7 +12,7 @@
 - currently it's using peerjs default cloud server for signaling, it may cause minor bugs, feel free to contribute and upgrade these features.
 
 Hosted Library:  
-🔗 https://glitch.com/edit/#!/stump-deadpan-wall
+🔗 [https://glitch.com/edit/#!/stump-deadpan-wall](https://arunmohankml.github.io/PeerWave-server/voice.js)
 ---
 ### Features
 
