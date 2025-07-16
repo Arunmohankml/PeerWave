@@ -30,7 +30,7 @@ Hosted Library:
 
 ```
 <script src="https://unpkg.com/peerjs@1.5.5/dist/peerjs.min.js"></script>
-<script src="https://stump-deadpan-wall.glitch.me/voice.js"></script>
+<script src="https://arunmohankml.github.io/PeerWave-server/voice.js"></script>
 ```
 
 ---
